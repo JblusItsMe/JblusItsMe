@@ -1,16 +1,14 @@
-### Hi there 👋
-
-<!--
-**JblusItsMe/JblusItsMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# :star: My Stats
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=JblusItsMeB&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=nord" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JblusItsMe&langs_count=4&count_private=true&theme=nord" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=JblusItsMe&margin-w=28&margin-h=15&theme=nord" />
+</p></a></p>
+  
+<p align="center"><a href="#">
+  <img src="https://img.shields.io/badge/-PHP-2e3440?logoColor=81a1c1&logo=PHP" />
+  <img src="https://img.shields.io/badge/-SQL-2e3440?logoColor=81a1c1&logo=MySQL" />
+  <img src="https://img.shields.io/badge/-HTML5-2e3440?logoColor=81a1c1&logo=html5" />
+</a></p>
