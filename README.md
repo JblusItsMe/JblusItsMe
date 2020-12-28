@@ -11,5 +11,7 @@
 
 <h1 align="center">:star: Quelque Projets :star:</h1>
 
-[Vaxoria BE](https://github.com/Vaxoria)
-[Henoria SkyBlock](http://github.com/Henoria)
+| Minecraft Bedrock           |
+| ------------- |:-------------:|
+| [Vaxoria BE](http://github.com/Vaxoria)      |
+| [Henoria](https://github.com/Henoria)      |
