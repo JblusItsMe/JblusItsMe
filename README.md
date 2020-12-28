@@ -12,7 +12,7 @@
 <h1 align="center">:star: Quelque Projets :star:</h1>
 
 <div align="center">
-  <a href="https://github.com/Vaxoria">Vaxoria BE</a>
+  <a href="https://github.com/Vaxoria" target="_blank">Vaxoria BE</a>
   <br />
-  <a href="https://github.com/Henoria">Henoria SkyBlock</a>
+  <a href="https://github.com/Henoria" target="_blank">Henoria SkyBlock</a>
 </div>
