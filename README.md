@@ -7,7 +7,7 @@
 
 - 🔭 Je travaille actuellement sur  [HurixSkyBlock](https://github.com/HurixSkyBlock)
 
-- 👨‍💻 Mon site [https://github.com/ThisAlive](https://github.com/JblusItsMe)
+- 👨‍💻 Mon site [https://www.hurix.xyz/](https://www.hurix.xyz/)
 
 - 💬 À propos de moi **Âgé de 19 ans. Je développe en JavaScript, Php, Java.**
 
