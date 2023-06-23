@@ -9,7 +9,7 @@
 
 - 👨‍💻 Mon site [https://www.hurix.xyz/](https://www.hurix.xyz/)
 
-- 💬 À propos de moi **Âgé de 19 ans. Je développe en JavaScript, Php, Java.**
+- 💬 À propos de moi **Âgé de 20 ans. Je développe en JavaScript, Php, Java.**
 
 - 📫 Comment me contacter **jeanbaptiste@hurix.xyz**
 
