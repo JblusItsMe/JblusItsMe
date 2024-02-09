@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, je suis JblusItsMe</h1>
 <h3 align="center">Developer in my spare time, creates things, is a way to unleash his creativity, passionate about learning new technologies, I continuously have fun with development</h3>
 
+<a href=""><img src="https://discord.c99.nl/widget/theme-1/1030513111301627934.png" alt=""/></a>
+
 - 📫 How to reach me **jblusitsme (on discord)**
 
 <h3 align="left">Languages and Tools:</h3>
